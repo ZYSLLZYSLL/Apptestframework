@@ -1,0 +1,142 @@
+2021-03-18 16:33:56,341 INFO 首页—关闭新人福利下的('id', 'com.youkagames.gameplatform:id/iv_cha')元素找到了
+2021-03-18 16:33:56,398 INFO 首页—关闭新人福利下的('id', 'com.youkagames.gameplatform:id/iv_cha')元素点击成功
+2021-03-18 16:33:57,000 INFO 首页-同意协议下的('id', 'com.youkagames.gameplatform:id/tv_positive')元素找到了
+2021-03-18 16:33:57,036 INFO 首页-同意协议下的('id', 'com.youkagames.gameplatform:id/tv_positive')元素点击成功
+2021-03-18 16:33:57,953 INFO 首页-同意电话权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素找到了
+2021-03-18 16:33:57,987 INFO 首页-同意电话权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素点击成功
+2021-03-18 16:33:58,849 INFO 首页-同意存储权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素找到了
+2021-03-18 16:33:58,887 INFO 首页-同意存储权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素点击成功
+2021-03-18 16:34:00,658 INFO 首页-点击我的下的('xpath', "//*[contains(@text,'我的')]")元素找到了
+2021-03-18 16:34:00,695 INFO 首页-点击我的下的('xpath', "//*[contains(@text,'我的')]")元素点击成功
+2021-03-18 16:34:01,445 INFO 我的页面—点击立即登录下的('id', 'com.youkagames.gameplatform:id/tv_name')元素找到了
+2021-03-18 16:34:01,476 INFO 我的页面—点击立即登录下的('id', 'com.youkagames.gameplatform:id/tv_name')元素点击成功
+2021-03-18 16:34:02,612 INFO 登录页-输入  汉字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:34:03,172 INFO 登录页-输入  汉字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入中国成功
+2021-03-18 16:34:03,679 INFO 登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:34:03,691 INFO 获取登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本中国点成功
+2021-03-18 16:34:03,806 INFO 登录页-输入  字母下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:34:04,329 INFO 登录页-输入  字母下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入abc成功
+2021-03-18 16:34:04,837 INFO 登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:34:04,862 INFO 获取登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本abc点成功
+2021-03-18 16:34:04,916 INFO 登录页-输入  特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:34:04,953 INFO 登录页-输入  特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入rt(123);</ja成功
+2021-03-18 16:34:05,474 INFO 登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:34:05,510 INFO 获取登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本rt(123);</j点成功
+2021-03-18 16:35:14,285 INFO 首页—关闭新人福利下的('id', 'com.youkagames.gameplatform:id/iv_cha')元素找到了
+2021-03-18 16:35:14,331 INFO 首页—关闭新人福利下的('id', 'com.youkagames.gameplatform:id/iv_cha')元素点击成功
+2021-03-18 16:35:14,901 INFO 首页-同意协议下的('id', 'com.youkagames.gameplatform:id/tv_positive')元素找到了
+2021-03-18 16:35:14,956 INFO 首页-同意协议下的('id', 'com.youkagames.gameplatform:id/tv_positive')元素点击成功
+2021-03-18 16:35:15,782 INFO 首页-同意电话权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素找到了
+2021-03-18 16:35:15,819 INFO 首页-同意电话权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素点击成功
+2021-03-18 16:35:16,568 INFO 首页-同意存储权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素找到了
+2021-03-18 16:35:16,607 INFO 首页-同意存储权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素点击成功
+2021-03-18 16:35:17,486 INFO 首页-点击我的下的('xpath', "//*[contains(@text,'我的')]")元素找到了
+2021-03-18 16:35:17,514 INFO 首页-点击我的下的('xpath', "//*[contains(@text,'我的')]")元素点击成功
+2021-03-18 16:35:18,228 INFO 我的页面—点击立即登录下的('id', 'com.youkagames.gameplatform:id/tv_name')元素找到了
+2021-03-18 16:35:18,258 INFO 我的页面—点击立即登录下的('id', 'com.youkagames.gameplatform:id/tv_name')元素点击成功
+2021-03-18 16:35:18,987 INFO 登录页-输入  汉字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:19,546 INFO 登录页-输入  汉字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入中国成功
+2021-03-18 16:35:20,045 INFO 登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:20,060 INFO 获取登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本中国点成功
+2021-03-18 16:35:20,174 INFO 登录页-输入  字母下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:20,729 INFO 登录页-输入  字母下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入abc成功
+2021-03-18 16:35:21,200 INFO 登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:21,212 INFO 获取登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本abc点成功
+2021-03-18 16:35:21,263 INFO 登录页-输入  特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:21,786 INFO 登录页-输入  特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入rt(123);</ja成功
+2021-03-18 16:35:21,802 INFO 登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:22,290 INFO 获取登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本rt(123);</j点成功
+2021-03-18 16:35:22,343 INFO 登录页-输入数字账号为：  1234下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:22,872 INFO 登录页-输入数字账号为：  1234下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入1234成功
+2021-03-18 16:35:23,398 INFO 登录页-账号输入框能输入数字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:23,411 INFO 获取登录页-账号输入框能输入数字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本  1234成功
+2021-03-18 16:35:23,456 INFO 登录页-输入数字账号为：  1234567890123下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:23,979 INFO 登录页-输入数字账号为：  1234567890123下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入1234567890123成功
+2021-03-18 16:35:24,522 INFO 登录页-账号输入框能输入数字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:24,538 INFO 获取登录页-账号输入框能输入数字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本  12345678901成功
+2021-03-18 16:35:24,586 INFO 登录页-输入数字账号为：  12345678901下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:25,116 INFO 登录页-输入数字账号为：  12345678901下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入12345678901成功
+2021-03-18 16:35:25,660 INFO 登录页-账号输入框能输入数字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:25,675 INFO 获取登录页-账号输入框能输入数字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本  12345678901成功
+2021-03-18 16:35:25,735 INFO 登录页-密码框输入汉字下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:25,772 INFO 登录页-密码框输入汉字下的('id', 'com.youkagames.gameplatform:id/password')元素输入中国成功
+2021-03-18 16:35:26,311 INFO 登录页-密码框输入汉字下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:26,326 INFO 获取登录页-密码框输入汉字下的('id', 'com.youkagames.gameplatform:id/password')元素文本  ••成功
+2021-03-18 16:35:26,382 INFO 登录页-密码框输入字母，特殊字符，数字下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:26,905 INFO 登录页-密码框输入字母，特殊字符，数字下的('id', 'com.youkagames.gameplatform:id/password')元素输入1234abc@#成功
+2021-03-18 16:35:27,441 INFO 登录页-密码框输入汉字下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:27,453 INFO 获取登录页-密码框输入汉字下的('id', 'com.youkagames.gameplatform:id/password')元素文本  •••••••••成功
+2021-03-18 16:35:27,495 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:28,018 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入1523993803成功
+2021-03-18 16:35:28,561 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:28,610 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/password')元素输入1523993803成功
+2021-03-18 16:35:29,173 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素找到了
+2021-03-18 16:35:29,214 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素点击成功
+2021-03-18 16:35:29,891 INFO 登录页-账号/密码错误不能登录toast下的('xpath', "//*[contains(@text,'账号密码不正确')]")元素找到了
+2021-03-18 16:35:29,960 INFO 获取登录页-账号/密码错误不能登录toast下的('xpath', "//*[contains(@text,'账号密码不正确')]")元素文本账号密码不正确点成功
+2021-03-18 16:35:30,041 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:30,092 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入15239938038成功
+2021-03-18 16:35:30,649 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:30,686 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/password')元素输入15239938038成功
+2021-03-18 16:35:31,220 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素找到了
+2021-03-18 16:35:31,251 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素点击成功
+2021-03-18 16:35:31,293 INFO 登录页-账号/密码错误不能登录toast下的('xpath', "//*[contains(@text,'账号密码不正确')]")元素找到了
+2021-03-18 16:35:31,900 INFO 获取登录页-账号/密码错误不能登录toast下的('xpath', "//*[contains(@text,'账号密码不正确')]")元素文本账号密码不正确点成功
+2021-03-18 16:35:31,976 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:32,526 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入1523993803成功
+2021-03-18 16:35:33,075 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:33,602 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/password')元素输入1523993803成功
+2021-03-18 16:35:34,146 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素找到了
+2021-03-18 16:35:34,170 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素点击成功
+2021-03-18 16:35:34,220 INFO 登录页-账号/密码错误不能登录toast下的('xpath', "//*[contains(@text,'账号密码不正确')]")元素找到了
+2021-03-18 16:35:34,837 INFO 获取登录页-账号/密码错误不能登录toast下的('xpath', "//*[contains(@text,'账号密码不正确')]")元素文本账号密码不正确点成功
+2021-03-18 16:35:34,918 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:34,960 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入成功
+2021-03-18 16:35:35,603 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:35,632 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/password')元素输入成功
+2021-03-18 16:35:36,267 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素找到了
+2021-03-18 16:35:36,878 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素点击成功
+2021-03-18 16:35:36,957 INFO 登录页-账号/密码错误不能登录toast下的('xpath', "//*[contains(@text,'请输入手机号')]")元素找到了
+2021-03-18 16:35:36,972 INFO 获取登录页-账号/密码错误不能登录toast下的('xpath', "//*[contains(@text,'请输入手机号')]")元素文本请输入手机号点成功
+2021-03-18 16:35:37,040 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:37,574 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入成功
+2021-03-18 16:35:38,095 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:38,121 INFO 登录页-账号/密码错误不能登录-输入账号下的('id', 'com.youkagames.gameplatform:id/password')元素输入bowen123456成功
+2021-03-18 16:35:38,662 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素找到了
+2021-03-18 16:35:38,850 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素点击成功
+2021-03-18 16:35:38,882 INFO 登录页-账号/密码错误不能登录toast下的('xpath', "//*[contains(@text,'请输入手机号')]")元素找到了
+2021-03-18 16:35:39,380 INFO 获取登录页-账号/密码错误不能登录toast下的('xpath', "//*[contains(@text,'请输入手机号')]")元素文本请输入手机号点成功
+2021-03-18 16:35:39,447 INFO 登录页-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:39,976 INFO 登录页-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入15239938038成功
+2021-03-18 16:35:40,500 INFO 登录页-密码为空下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:40,525 INFO 登录页-密码为空下的('id', 'com.youkagames.gameplatform:id/password')元素输入成功
+2021-03-18 16:35:41,152 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素找到了
+2021-03-18 16:35:41,403 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素点击成功
+2021-03-18 16:35:41,435 INFO 登录页-输入账号，密码为空不能登录下的('xpath', "//*[contains(@text,'请输入密码')]")元素找到了
+2021-03-18 16:35:41,919 INFO 获取登录页-输入账号，密码为空不能登录下的('xpath', "//*[contains(@text,'请输入密码')]")元素文本请输入密码点成功
+2021-03-18 16:35:41,962 INFO 登录页-选择第三方登录-QQ下的('id', 'com.youkagames.gameplatform:id/qq_login_id')元素找到了
+2021-03-18 16:35:42,495 INFO 登录页-选择第三方登录-QQ下的('id', 'com.youkagames.gameplatform:id/qq_login_id')元素点击成功
+2021-03-18 16:35:47,329 INFO 登录页-选择第三方登录-QQ下的('xpath', "//*[contains(@text,'QQ授权登录')]")元素找到了
+2021-03-18 16:35:47,340 INFO 获取登录页-选择第三方登录-QQ下的('xpath', "//*[contains(@text,'QQ授权登录')]")元素文本  QQ授权登录成功
+2021-03-18 16:35:47,388 INFO 登录页-第三方-退出微信第三方下的('id', 'com.tencent.mobileqq:id/ivTitleBtnRightText')元素找到了
+2021-03-18 16:35:47,422 INFO 登录页-第三方-退出微信第三方下的('id', 'com.tencent.mobileqq:id/ivTitleBtnRightText')元素点击成功
+2021-03-18 16:35:48,237 INFO 登录页-选择第三方登录-微信下的('id', 'com.youkagames.gameplatform:id/wechat_login_id')元素找到了
+2021-03-18 16:35:48,267 INFO 登录页-选择第三方登录-微信下的('id', 'com.youkagames.gameplatform:id/wechat_login_id')元素点击成功
+2021-03-18 16:35:50,949 INFO 登录页-选择第三方登录-微信下的('xpath', "//*[contains(@text,'绑定手机号')]")元素找到了
+2021-03-18 16:35:50,958 INFO 获取登录页-选择第三方登录-微信下的('xpath', "//*[contains(@text,'绑定手机号')]")元素文本  绑定手机号成功
+2021-03-18 16:35:50,991 INFO 登录页-第三方-退出微信第三方下的('id', 'com.youkagames.gameplatform:id/iv_left')元素找到了
+2021-03-18 16:35:51,014 INFO 登录页-第三方-退出微信第三方下的('id', 'com.youkagames.gameplatform:id/iv_left')元素点击成功
+2021-03-18 16:35:51,945 INFO 登录页-选择第三方登录-微博下的('id', 'com.youkagames.gameplatform:id/sina_login_id')元素找到了
+2021-03-18 16:35:51,975 INFO 登录页-选择第三方登录-微博下的('id', 'com.youkagames.gameplatform:id/sina_login_id')元素点击成功
+2021-03-18 16:35:56,517 INFO 登录页-选择第三方登录-QQ下的('xpath', "//*[contains(@text,'微博登录')]")元素找到了
+2021-03-18 16:35:56,536 INFO 获取登录页-选择第三方登录-QQ下的('xpath', "//*[contains(@text,'微博登录')]")元素文本  微博登录成功
+2021-03-18 16:35:56,636 INFO 登录页-第三方-退出微博第三方下的('id', 'com.sina.weibo:id/titleBack')元素找到了
+2021-03-18 16:35:56,682 INFO 登录页-第三方-退出微博第三方下的('id', 'com.sina.weibo:id/titleBack')元素点击成功
+2021-03-18 16:35:57,675 INFO 登录页-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+2021-03-18 16:35:57,715 INFO 登录页-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入15239938038成功
+2021-03-18 16:35:58,242 INFO 登录页-输入密码下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+2021-03-18 16:35:58,771 INFO 登录页-输入密码下的('id', 'com.youkagames.gameplatform:id/password')元素输入bowen123456成功
+2021-03-18 16:35:59,315 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素找到了
+2021-03-18 16:35:59,391 INFO 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素点击成功
+2021-03-18 16:36:01,200 INFO 我的页面-获取登录用户名下的('id', 'com.youkagames.gameplatform:id/tv_name')元素找到了
+2021-03-18 16:36:01,211 INFO 获取我的页面-获取登录用户名下的('id', 'com.youkagames.gameplatform:id/tv_name')元素文本  ZYSLL成功

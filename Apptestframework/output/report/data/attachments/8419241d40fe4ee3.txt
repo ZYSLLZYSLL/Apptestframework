@@ -1,0 +1,4 @@
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-输入数字账号为：  1234567890123下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:89 登录页-输入数字账号为：  1234567890123下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入1234567890123成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-账号输入框能输入数字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:107 获取登录页-账号输入框能输入数字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本  12345678901成功

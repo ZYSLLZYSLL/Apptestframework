@@ -1,0 +1,110 @@
+{
+  "uid" : "9afce05b812dd589",
+  "name" : "test_login_password_03",
+  "fullName" : "test_login.TestLogin#test_login_password_03",
+  "historyId" : "347c81f8ad677ee00661f0c35010df65",
+  "time" : {
+    "start" : 1616056525679,
+    "stop" : 1616056526327,
+    "duration" : 648
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '••' == '请输入密码'\n  - 请输入密码\n  + ••",
+  "statusTrace" : "self = <testcase.test_login.TestLogin object at 0x00000222771808C8>\n\n    def test_login_password_03(self):\n        BasePage(driver).input_element('中国', loc_l.passwordLocator, \"登录页-密码框输入汉字\")\n>       assert BasePage(driver).get_element_text(loc_l.passwordLocator, \"登录页-密码框输入汉字\") == \"请输入密码\"\nE       AssertionError: assert '••' == '请输入密码'\nE         - 请输入密码\nE         + ••\n\ntest_login.py:52: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1616056509111,
+      "stop" : 1616056518258,
+      "duration" : 9147
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert '••' == '请输入密码'\n  - 请输入密码\n  + ••",
+    "statusTrace" : "self = <testcase.test_login.TestLogin object at 0x00000222771808C8>\n\n    def test_login_password_03(self):\n        BasePage(driver).input_element('中国', loc_l.passwordLocator, \"登录页-密码框输入汉字\")\n>       assert BasePage(driver).get_element_text(loc_l.passwordLocator, \"登录页-密码框输入汉字\") == \"请输入密码\"\nE       AssertionError: assert '••' == '请输入密码'\nE         - 请输入密码\nE         + ••\n\ntest_login.py:52: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2744d6c14b688159",
+      "name" : "log",
+      "source" : "2744d6c14b688159.txt",
+      "type" : "text/plain",
+      "size" : 618
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "login::0",
+    "time" : {
+      "start" : 1616056561213,
+      "stop" : 1616056561395,
+      "duration" : 182
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('login')"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "Lenovo--ZYSLL"
+  }, {
+    "name" : "thread",
+    "value" : "13576-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "@pytest.mark.usefixtures('login')" ]
+  },
+  "source" : "9afce05b812dd589.json",
+  "parameterValues" : [ ]
+}

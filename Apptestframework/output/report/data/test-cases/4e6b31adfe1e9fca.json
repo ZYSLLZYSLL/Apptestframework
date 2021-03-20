@@ -1,0 +1,108 @@
+{
+  "uid" : "4e6b31adfe1e9fca",
+  "name" : "test_login_password_05[1523993803-bowen12345]",
+  "fullName" : "test_login.TestLogin#test_login_password_05",
+  "historyId" : "4dcbdcca9309824171f37e338d352dbb",
+  "time" : {
+    "start" : 1616056531908,
+    "stop" : 1616056534839,
+    "duration" : 2931
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1616056509111,
+      "stop" : 1616056518258,
+      "duration" : 9147
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1d3b33cd78b0ef7d",
+      "name" : "log",
+      "source" : "1d3b33cd78b0ef7d.txt",
+      "type" : "text/plain",
+      "size" : 1360
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "login::0",
+    "time" : {
+      "start" : 1616056561213,
+      "stop" : 1616056561395,
+      "duration" : 182
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('login')"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "Lenovo--ZYSLL"
+  }, {
+    "name" : "thread",
+    "value" : "13576-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "password",
+    "value" : "'bowen12345'"
+  }, {
+    "name" : "user",
+    "value" : "'1523993803'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('login')" ]
+  },
+  "source" : "4e6b31adfe1e9fca.json",
+  "parameterValues" : [ "'bowen12345'", "'1523993803'" ]
+}

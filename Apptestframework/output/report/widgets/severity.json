@@ -1,0 +1,191 @@
+[ {
+  "uid" : "4adf17daabfcb6cb",
+  "name" : "test_login_password_09",
+  "time" : {
+    "start" : 1616056547343,
+    "stop" : 1616056550959,
+    "duration" : 3616
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f97142c326813de7",
+  "name" : "test_login_password_05[15239938038-bowen12345]",
+  "time" : {
+    "start" : 1616056529971,
+    "stop" : 1616056531901,
+    "duration" : 1930
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc7a032af816403c",
+  "name" : "test_login_user_01[汉字-中国]",
+  "time" : {
+    "start" : 1616056518260,
+    "stop" : 1616056520062,
+    "duration" : 1802
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5da9ed83883c3f1d",
+  "name" : "test_login_user_02[12345678901-1234567890123]",
+  "time" : {
+    "start" : 1616056523416,
+    "stop" : 1616056524539,
+    "duration" : 1123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7244c090a8f555f3",
+  "name" : "test_login_password_11",
+  "time" : {
+    "start" : 1616056556540,
+    "stop" : 1616056556682,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "770c8778efc46731",
+  "name" : "test_login_password_06[-]",
+  "time" : {
+    "start" : 1616056534855,
+    "stop" : 1616056536973,
+    "duration" : 2118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55b9af0b74bf5532",
+  "name" : "test_login_password_10",
+  "time" : {
+    "start" : 1616056550962,
+    "stop" : 1616056556538,
+    "duration" : 5576
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a03d36b28d53dafb",
+  "name" : "test_login_password_05[1523993803-bowen123456]",
+  "time" : {
+    "start" : 1616056527456,
+    "stop" : 1616056529962,
+    "duration" : 2506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d090bc10da7fdcc9",
+  "name" : "test_login_password_07[15239938038-]",
+  "time" : {
+    "start" : 1616056539388,
+    "stop" : 1616056541919,
+    "duration" : 2531
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5484ecaefa5faee9",
+  "name" : "test_login_user_02[1234-1234]",
+  "time" : {
+    "start" : 1616056522303,
+    "stop" : 1616056523412,
+    "duration" : 1109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2bff0abfb5803c6b",
+  "name" : "test_login_user_02[12345678901-12345678901]",
+  "time" : {
+    "start" : 1616056524543,
+    "stop" : 1616056525675,
+    "duration" : 1132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9afce05b812dd589",
+  "name" : "test_login_password_03",
+  "time" : {
+    "start" : 1616056525679,
+    "stop" : 1616056526327,
+    "duration" : 648
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "17f16adddb317e14",
+  "name" : "test_login_user_01[特殊字符-rt(123);</ja]",
+  "time" : {
+    "start" : 1616056521225,
+    "stop" : 1616056522291,
+    "duration" : 1066
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8394cb936af1864",
+  "name" : "test_login_password_06[-bowen123456]",
+  "time" : {
+    "start" : 1616056536977,
+    "stop" : 1616056539381,
+    "duration" : 2404
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afd1ef3aea4afb0",
+  "name" : "test_login_user_01[字母-abc]",
+  "time" : {
+    "start" : 1616056520132,
+    "stop" : 1616056521213,
+    "duration" : 1081
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "81d73767217678db",
+  "name" : "test_login_sucess[15239938038-bowen123456]",
+  "time" : {
+    "start" : 1616056556685,
+    "stop" : 1616056561211,
+    "duration" : 4526
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7704243e1ce87e5",
+  "name" : "test_login_password_04",
+  "time" : {
+    "start" : 1616056526336,
+    "stop" : 1616056527453,
+    "duration" : 1117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e6b31adfe1e9fca",
+  "name" : "test_login_password_05[1523993803-bowen12345]",
+  "time" : {
+    "start" : 1616056531908,
+    "stop" : 1616056534839,
+    "duration" : 2931
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4cf1547354b34409",
+  "name" : "test_login_password_08",
+  "time" : {
+    "start" : 1616056541923,
+    "stop" : 1616056547340,
+    "duration" : 5417
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

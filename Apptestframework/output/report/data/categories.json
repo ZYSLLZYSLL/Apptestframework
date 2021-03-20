@@ -1,0 +1,77 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '中国' == '请输入手机号'\n  - 请输入手机号\n  + 中国",
+      "children" : [ {
+        "name" : "test_login_user_01[汉字-中国]",
+        "uid" : "cc7a032af816403c",
+        "parentUid" : "dab2c8fd5c745708d39aa5904c3797b7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616056518260,
+          "stop" : 1616056520062,
+          "duration" : 1802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'汉字'", "'中国'" ]
+      } ],
+      "uid" : "dab2c8fd5c745708d39aa5904c3797b7"
+    }, {
+      "name" : "AssertionError: assert 'abc' == '请输入手机号'\n  - 请输入手机号\n  + abc",
+      "children" : [ {
+        "name" : "test_login_user_01[字母-abc]",
+        "uid" : "afd1ef3aea4afb0",
+        "parentUid" : "12327e08e4b1e079db85e1685896717d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616056520132,
+          "stop" : 1616056521213,
+          "duration" : 1081
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'字母'", "'abc'" ]
+      } ],
+      "uid" : "12327e08e4b1e079db85e1685896717d"
+    }, {
+      "name" : "AssertionError: assert 'rt(123);</j' == '请输入手机号'\n  - 请输入手机号\n  + rt(123);</j",
+      "children" : [ {
+        "name" : "test_login_user_01[特殊字符-rt(123);</ja]",
+        "uid" : "17f16adddb317e14",
+        "parentUid" : "e122c5787c745432332a91136581f4d1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616056521225,
+          "stop" : 1616056522291,
+          "duration" : 1066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'特殊字符'", "'rt(123);</ja'" ]
+      } ],
+      "uid" : "e122c5787c745432332a91136581f4d1"
+    }, {
+      "name" : "AssertionError: assert '••' == '请输入密码'\n  - 请输入密码\n  + ••",
+      "children" : [ {
+        "name" : "test_login_password_03",
+        "uid" : "9afce05b812dd589",
+        "parentUid" : "e71accd55c4dd9f86bf76cd450ebd701",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616056525679,
+          "stop" : 1616056526327,
+          "duration" : 648
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e71accd55c4dd9f86bf76cd450ebd701"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

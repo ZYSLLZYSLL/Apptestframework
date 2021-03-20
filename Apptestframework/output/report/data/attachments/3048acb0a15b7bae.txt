@@ -1,0 +1,4 @@
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-密码框输入字母，特殊字符，数字下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:89 登录页-密码框输入字母，特殊字符，数字下的('id', 'com.youkagames.gameplatform:id/password')元素输入1234abc@#成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-密码框输入汉字下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:107 获取登录页-密码框输入汉字下的('id', 'com.youkagames.gameplatform:id/password')元素文本  •••••••••成功

@@ -1,0 +1,9 @@
+sendEmailUser: zhouyu_114@163.com # 发件人
+sendPassword: BGNFQQXSOYSZBAOS # 授权码
+acceptEmailUser: 993464082@qq.com # 收件人
+title: 发给范范的一封信   # 标题
+contents:  # 正文内容
+  - 你好
+  - 欢迎欢迎
+fileName: ../output/report_html  # 附件
+attachment: a.png # 图片

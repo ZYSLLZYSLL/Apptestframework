@@ -1,0 +1,4 @@
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-输入  特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:89 登录页-输入  特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入rt(123);</ja成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:126 获取登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本rt(123);</j点成功

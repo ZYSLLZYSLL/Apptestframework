@@ -1,0 +1,8 @@
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:89 登录页-输入账号下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入15239938038成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-输入密码下的('id', 'com.youkagames.gameplatform:id/password')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:89 登录页-输入密码下的('id', 'com.youkagames.gameplatform:id/password')元素输入bowen123456成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 登录页-点击登录下的('id', 'com.youkagames.gameplatform:id/login')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 我的页面-获取登录用户名下的('id', 'com.youkagames.gameplatform:id/tv_name')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:107 获取我的页面-获取登录用户名下的('id', 'com.youkagames.gameplatform:id/tv_name')元素文本  ZYSLL成功

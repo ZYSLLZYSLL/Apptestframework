@@ -1,0 +1,31 @@
+device1:
+  platformName: Android
+  platformVersion: 7.1.2
+  deviceName: emulator-5554
+  appPackage: com.tal.kaoyan
+  appActivity: com.tal.kaoyan.ui.activity.HomeTabActivity
+  noReset: False
+  app: E:\Python\APP\App\com.tal.kaoyan_3.8.1_liqucn.com.apk
+  unicodeKeyboard: True
+  resetKeyboard: True
+
+device2:
+  platformName: Android
+  platformVersion: "10"
+  deviceName: 4LWSPFMBPV85EMPR
+  appPackage: com.tal.kaoyan
+  appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+  noReset: False
+  app: E:\Python\APP\App\com.tal.kaoyan_3.8.1_liqucn.com.apk
+  unicodeKeyboard: True
+  resetKeyboard: True
+device3:
+  platformName: Android
+  platformVersion: "10"
+  deviceName: 4LWSPFMBPV85EMPR
+  appPackage: com.youkagames.gameplatform
+  appActivity: com.youkagames.gameplatform.activity.SplashActivity
+  noReset: False
+  app: E:\Python\xinWuJi\App\com.youkagames.gameplatform.apk
+#  unicodeKeyboard: True
+#  resetKeyboard: True

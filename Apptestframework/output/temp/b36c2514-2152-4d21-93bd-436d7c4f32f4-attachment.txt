@@ -1,0 +1,16 @@
+INFO     log_ri_zhi.logHandler:basePage.py:36 首页—关闭新人福利下的('id', 'com.youkagames.gameplatform:id/iv_cha')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 首页—关闭新人福利下的('id', 'com.youkagames.gameplatform:id/iv_cha')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 首页-同意协议下的('id', 'com.youkagames.gameplatform:id/tv_positive')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 首页-同意协议下的('id', 'com.youkagames.gameplatform:id/tv_positive')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 首页-同意电话权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 首页-同意电话权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 首页-同意存储权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 首页-同意存储权限下的('id', 'com.android.permissioncontroller:id/permission_allow_button')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 首页-点击我的下的('xpath', "//*[contains(@text,'我的')]")元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 首页-点击我的下的('xpath', "//*[contains(@text,'我的')]")元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 我的页面—点击立即登录下的('id', 'com.youkagames.gameplatform:id/tv_name')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 我的页面—点击立即登录下的('id', 'com.youkagames.gameplatform:id/tv_name')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-输入  汉字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:89 登录页-输入  汉字下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素输入中国成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:126 获取登录页-输入汉字,英文，特殊字符下的('id', 'com.youkagames.gameplatform:id/phoneNum')元素文本中国点成功

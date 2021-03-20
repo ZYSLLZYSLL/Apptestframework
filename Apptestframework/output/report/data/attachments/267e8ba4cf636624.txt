@@ -1,0 +1,4 @@
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-选择第三方登录-QQ下的('id', 'com.youkagames.gameplatform:id/qq_login_id')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 登录页-选择第三方登录-QQ下的('id', 'com.youkagames.gameplatform:id/qq_login_id')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-选择第三方登录-QQ下的('xpath', "//*[contains(@text,'QQ授权登录')]")元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:107 获取登录页-选择第三方登录-QQ下的('xpath', "//*[contains(@text,'QQ授权登录')]")元素文本  QQ授权登录成功

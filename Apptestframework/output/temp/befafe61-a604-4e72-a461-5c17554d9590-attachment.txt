@@ -1,0 +1,6 @@
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-第三方-退出微信第三方下的('id', 'com.tencent.mobileqq:id/ivTitleBtnRightText')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 登录页-第三方-退出微信第三方下的('id', 'com.tencent.mobileqq:id/ivTitleBtnRightText')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-选择第三方登录-微信下的('id', 'com.youkagames.gameplatform:id/wechat_login_id')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 登录页-选择第三方登录-微信下的('id', 'com.youkagames.gameplatform:id/wechat_login_id')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-选择第三方登录-微信下的('xpath', "//*[contains(@text,'绑定手机号')]")元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:107 获取登录页-选择第三方登录-微信下的('xpath', "//*[contains(@text,'绑定手机号')]")元素文本  绑定手机号成功

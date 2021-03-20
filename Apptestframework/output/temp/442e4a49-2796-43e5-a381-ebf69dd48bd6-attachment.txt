@@ -1,0 +1,6 @@
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-第三方-退出微信第三方下的('id', 'com.youkagames.gameplatform:id/iv_left')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 登录页-第三方-退出微信第三方下的('id', 'com.youkagames.gameplatform:id/iv_left')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-选择第三方登录-微博下的('id', 'com.youkagames.gameplatform:id/sina_login_id')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 登录页-选择第三方登录-微博下的('id', 'com.youkagames.gameplatform:id/sina_login_id')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-选择第三方登录-QQ下的('xpath', "//*[contains(@text,'微博登录')]")元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:107 获取登录页-选择第三方登录-QQ下的('xpath', "//*[contains(@text,'微博登录')]")元素文本  微博登录成功

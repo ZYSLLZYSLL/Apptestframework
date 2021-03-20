@@ -1,0 +1,2 @@
+INFO     log_ri_zhi.logHandler:basePage.py:36 登录页-第三方-退出微博第三方下的('id', 'com.sina.weibo:id/titleBack')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:70 登录页-第三方-退出微博第三方下的('id', 'com.sina.weibo:id/titleBack')元素点击成功
